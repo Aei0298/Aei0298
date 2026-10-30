@@ -4,8 +4,6 @@
 
 I'm an M.Sc. Mechanical Engineering student specializing in Production at Rhine-Waal University of Applied Sciences, Germany.
 
-I'm currently working on my master's thesis at Robert Bosch GmbH, developing a Python library for multiscale contact simulation and Physics-Informed Machine Learning for manufacturing-related surface quality evaluation.
-
 ## Research Interests
 
 - Scientific & Physics-Informed Machine Learning
