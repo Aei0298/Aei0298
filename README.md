@@ -1,16 +1,27 @@
-## Hi there 👋
+# Ahmed El-Issaku
 
-<!--
-**Aei0298/Aei0298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mechanical Engineering | Scientific Machine Learning | Intelligent Manufacturing
 
-Here are some ideas to get you started:
+I'm an M.Sc. Mechanical Engineering student specializing in Production at Rhine-Waal University of Applied Sciences, Germany.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on my master's thesis at Robert Bosch GmbH, developing a Python library for multiscale contact simulation and Physics-Informed Machine Learning for manufacturing-related surface quality evaluation.
+
+## Research Interests
+
+- Scientific & Physics-Informed Machine Learning
+- Intelligent Manufacturing and Digital Twins
+- Computational Mechanics and Numerical Simulation
+- Industrial Anomaly Detection and Condition Monitoring
+- Uncertainty Quantification and Surrogate Modeling
+- Industrial Time-Series Analysis and Signal Processing
+
+## Selected Projects
+
+- [Predictive Maintenance ML](https://github.com/Aei0298/Predictive-Maintenance-ML)
+- [Uncertainty-Aware SciML for MEMS](https://github.com/Aei0298/uncertainty-aware-sciml-mems)
+- [Scientific Signal Processing](https://github.com/Aei0298/scientific-signal-processing)
+- [Production Bottleneck Simulation](https://github.com/Aei0298/production-bottleneck-simulation)
+
+## Current Focus
+
+I'm building reproducible research projects combining physical modeling, advanced machine learning and real-world manufacturing applications as preparation for future doctoral research.
