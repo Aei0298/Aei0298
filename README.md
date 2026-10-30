@@ -22,6 +22,4 @@ I'm currently working on my master's thesis at Robert Bosch GmbH, developing a P
 - [Scientific Signal Processing](https://github.com/Aei0298/scientific-signal-processing)
 - [Production Bottleneck Simulation](https://github.com/Aei0298/production-bottleneck-simulation)
 
-## Current Focus
 
-I'm building reproducible research projects combining physical modeling, advanced machine learning and real-world manufacturing applications as preparation for future doctoral research.
