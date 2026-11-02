@@ -1,6 +1,6 @@
 # Ahmed El-Issaku
 
-I'm an M.Sc. Mechanical Engineering student specializing in Production at Rhine-Waal University of Applied Sciences, Germany.
+I'm an M.Sc. Mechanical Engineering student specializing in Production at Rhine-Waal University of Applied Sciences, Germany. I am particularly interested in using Scientific Machine Learning to complement physics-based modelling rather than treating machine learning as a standalone tool.
 
 ## Research Interests
 
