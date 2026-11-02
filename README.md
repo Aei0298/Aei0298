@@ -1,10 +1,6 @@
 # Ahmed El-Issaku
 
-### Mechanical Engineering | Computational Mechanics | Scientific Machine Learning | Intelligent Manufacturing
-
 I'm an M.Sc. Mechanical Engineering student specializing in Production at Rhine-Waal University of Applied Sciences, Germany.
-
-My work combines **mechanical modelling, numerical simulation, scientific computing, surface engineering, and data-driven methods** for manufacturing and engineering applications. I am particularly interested in using Scientific Machine Learning to complement physics-based modelling.
 
 ## Research Interests
 
@@ -29,4 +25,4 @@ My work combines **mechanical modelling, numerical simulation, scientific comput
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/ahmedelissaku/) | [GitHub](https://github.com/Aei0298)
+[LinkedIn](https://www.linkedin.com/in/ahmedelissaku/) 
